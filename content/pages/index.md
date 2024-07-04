@@ -116,6 +116,9 @@ sections:
       - type: Label
         label: Swift
         url: ''
+      - type: Label
+        label: JAVA
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
