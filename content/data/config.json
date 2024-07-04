@@ -93,7 +93,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+91 9163556868",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
