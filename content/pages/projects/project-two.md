@@ -9,7 +9,7 @@ description: >-
   with your camera. Do check it out and give suggestions.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/_0a18ce25-0592-4238-8f0c-c79d650e7b48.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
