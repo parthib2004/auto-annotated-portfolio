@@ -100,7 +100,7 @@
             "address": "Somewhere in the World",
             "addressAltText": "My address"
         },
-        "copyrightText": "",
+        "copyrightText": "Developer: Parthib Sarkar\n",
         "styles": {
             "self": {
                 "width": "narrow",
