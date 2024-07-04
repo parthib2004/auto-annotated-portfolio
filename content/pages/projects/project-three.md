@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Here's another fun stuff you can do and the thing which we requires the most!
+  You can use it and positive feedbacks are accepted.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
