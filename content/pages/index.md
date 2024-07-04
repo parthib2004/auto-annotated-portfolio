@@ -152,6 +152,9 @@ sections:
       - type: Label
         label: MongoDB
         url: ''
+      - type: Label
+        label: MySQL
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
