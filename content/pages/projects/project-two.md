@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Had a lot of fun to create that! This project allows you to detect any faces
-  with your camera
+  with your camera. Do check it out and give suggestions.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
