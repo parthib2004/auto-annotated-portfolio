@@ -9,7 +9,7 @@ description: >-
   You can use it and positive feedbacks are accepted.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/_7b2529e3-6a9c-4010-8a39-5053abcb7c99.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
