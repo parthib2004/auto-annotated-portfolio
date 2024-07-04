@@ -96,7 +96,7 @@ sections:
     subtitle: 'MY PROJECTS:'
   - type: LabelsSection
     title: My Skills
-    subtitle: The section subtitle
+    subtitle: 'List of my skills:'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
