@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m an innovative developer, tech Enthusiast & A Constant learner.'
+    title: >-
+      I’m an innovative developer, tech Enthusiast, creative coder & A Constant
+      learner.
     subtitle: >-
       With a deep passion for creating innovative solutions, I continuously
       explore the latest technologies and trends. My journey is fueled by a
