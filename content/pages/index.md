@@ -134,6 +134,9 @@ sections:
       - type: Label
         label: Bootstrap
         url: ''
+      - type: Label
+        label: Tailwind
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
