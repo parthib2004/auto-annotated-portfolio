@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Face Detector project
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Had a lot of fun to create that! This project allows you to detect any faces
+  with your camera. Do check it out and give suggestions.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/_0a18ce25-0592-4238-8f0c-c79d650e7b48.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock

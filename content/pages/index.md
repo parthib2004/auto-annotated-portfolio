@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image4.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -93,49 +93,84 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+    subtitle: 'MY PROJECTS:'
+  - type: LabelsSection
+    title: My Skills
+    subtitle: 'List of my skills:'
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+        url: ''
+      - type: Label
+        label: React
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Next.js
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: JAVA
+        url: ''
+      - type: Label
+        label: C
+        url: ''
+      - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: Go
+        url: ''
+      - type: Label
+        label: DBMS
+        url: ''
+      - type: Label
+        label: Bootstrap
+        url: ''
+      - type: Label
+        label: Tailwind
+        url: ''
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: Javascript
+        url: ''
+      - type: Label
+        label: PHP
+        url: ''
+      - type: Label
+        label: MongoDB
+        url: ''
+      - type: Label
+        label: MySQL
+        url: ''
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -202,51 +237,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---

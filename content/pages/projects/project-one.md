@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Daily Reminder Tool
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  One of the most useful and important thing in our life is this! Do check out
+  this project and I am free to hear any suggestions that you give.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/_ca5c0e87-62e5-417e-9e12-f7e3fe33c2ef.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock

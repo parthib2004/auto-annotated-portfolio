@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "About myself:",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -29,15 +29,31 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "url": "https://x.com/parthibishere",
                 "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/parthib2004",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/parthib-sarkar-859838293/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/_p_a_r_t_h_i_b__/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -77,18 +93,23 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+91 9163556868",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "parthib.sarkar04@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Somewhere in the World",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Developer: Parthib Sarkar\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
