@@ -131,6 +131,9 @@ sections:
       - type: Label
         label: DBMS
         url: ''
+      - type: Label
+        label: Bootstrap
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
