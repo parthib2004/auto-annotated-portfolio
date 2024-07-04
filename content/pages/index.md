@@ -95,7 +95,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'MY PROJECTS:'
   - type: LabelsSection
-    title: Skills
+    title: My Skills
     subtitle: The section subtitle
     items:
       - type: Label
