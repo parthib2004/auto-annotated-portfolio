@@ -4,7 +4,9 @@ title: Face Detector project
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Had a lot of fun to create that!
+description: >-
+  Had a lot of fun to create that! This project allows you to detect any faces
+  with your camera
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
