@@ -149,6 +149,9 @@ sections:
       - type: Label
         label: PHP
         url: ''
+      - type: Label
+        label: MongoDB
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
