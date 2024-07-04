@@ -15,10 +15,10 @@ sections:
     backgroundSize: full
     title: 'I’m a developer, TECh Enthusiast & A Constant learner.'
     subtitle: >-
-      This is the complete information that I am sharing it all this with you
-      all to impress you with all the hard work I’ve done in the past few years.
-      Once you’re impressed, you can continue to scroll down to see more details
-      and credentials about me.
+      With a deep passion for creating innovative solutions, I continuously
+      explore the latest technologies and trends. My journey is fueled by a
+      commitment to lifelong learning and a relentless drive to grow and excel
+      in the ever-evolving tech landscape.
     styles:
       self:
         height: auto
