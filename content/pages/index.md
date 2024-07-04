@@ -143,6 +143,9 @@ sections:
       - type: Label
         label: CSS
         url: ''
+      - type: Label
+        label: Javascript
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
