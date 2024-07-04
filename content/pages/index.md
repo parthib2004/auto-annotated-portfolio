@@ -137,6 +137,9 @@ sections:
       - type: Label
         label: Tailwind
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
