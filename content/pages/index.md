@@ -106,8 +106,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/_13fd8c8f-f2ae-491b-8586-13903ddd2932.jpeg
           altText: Item image
           caption: Caption of the image
           elementId: ''
