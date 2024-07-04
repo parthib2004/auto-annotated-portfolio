@@ -46,6 +46,14 @@
                 "url": "/https://www.linkedin.com/in/parthib-sarkar-859838293/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/_p_a_r_t_h_i_b__/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
