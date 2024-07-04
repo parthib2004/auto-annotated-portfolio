@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/parthib-sarkar-859838293/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -88,7 +96,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
