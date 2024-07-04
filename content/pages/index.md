@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: 'I’m a developer, TECh Enthusiast & A Constant learner.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is the complete information that I am sharing it all this with you
+      all to impress you with all the hard work I’ve done in the past few years.
+      Once you’re impressed, you can continue to scroll down to see more details
+      and credentials about me.
     styles:
       self:
         height: auto
