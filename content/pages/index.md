@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/IMG-20240703-WA0033.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
