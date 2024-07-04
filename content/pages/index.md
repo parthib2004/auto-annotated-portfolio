@@ -114,9 +114,6 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Swift
-        url: ''
-      - type: Label
         label: JAVA
         url: ''
       - type: Label
