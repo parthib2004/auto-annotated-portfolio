@@ -196,6 +196,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: x-large
       title:
         textAlign: left
       subtitle:
