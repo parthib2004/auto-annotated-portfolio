@@ -9,7 +9,7 @@ description: >-
   this project and I am free to hear any suggestions that you give.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/_ca5c0e87-62e5-417e-9e12-f7e3fe33c2ef.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
