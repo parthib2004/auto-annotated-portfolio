@@ -122,6 +122,9 @@ sections:
       - type: Label
         label: C
         url: ''
+      - type: Label
+        label: Kotlin
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
